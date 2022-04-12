@@ -14,8 +14,6 @@ def clean_username(username: str)->str:
 
     for char in BANNED_CHARS:
         username = username.replace(char, "")
-
-    # final = ''.join((c for c in unicodedata.normalize('NFD', username) if unicodedata.category(c) != 'Mn'))
     
     return username
 
