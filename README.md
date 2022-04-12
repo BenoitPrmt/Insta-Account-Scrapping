@@ -16,4 +16,5 @@ The results are displayed like this:
 - M = Male
 - ND = Result not defined
 
-## 🤝 Contribute
+## 💛 Contribute 
+You can contribute to the project by making pull requests or by proposing ideas or modifications with [issues](https://github.com/BenoitObelia/Insta-Account-Scrapping/issues)
