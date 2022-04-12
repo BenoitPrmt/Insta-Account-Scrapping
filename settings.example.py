@@ -1,0 +1,3 @@
+INSTA_USERNAME: str = "YOUR INSTAGRAM USERNAME"
+INSTA_PASSWORD: str = "YOUR INSTAGRAM PASSWORD"
+BANNED_CHARS: list = [".", "_", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]

@@ -1,2 +1,19 @@
-# Insta-Account-Scrapping
-Tool that allows to scan followers and floowings of an Instagram account.
+# 🧐 Insta-Account-Scrapping
+Tool that helps to analyze the subscriptions of an Instagram account and determine the gender of the subscriptions.
+
+## 🔎 Usage
+- Install dependencies with `pip install requirements.txt`
+- Run the *`start.py`* file.
+- Enter target's **exact** Instagram username
+- Wait for the target's subscriptions to be analyzed
+
+## 🚩 Interpret the results
+The results are displayed like this:
+```py
+{'F': 4, 'M': 4, 'ND': 1}
+```
+- F = Female
+- M = Male
+- ND = Result not defined
+
+## 🤝 Contribute
